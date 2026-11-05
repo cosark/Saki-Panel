@@ -80,6 +80,10 @@ The default web address is `http://localhost:5478`. For remote or public deploym
 
 To build the images from source instead, use [docker-compose.yml](docker-compose.yml), supply the same secrets in `.env`, and run `docker compose up -d --build`. See [.env.example](.env.example) for more options.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Saki%20Panel/)
+
 ## How Saki helps investigate
 
 ![Saki Panel 5.0 instance console with live logs, resource metrics, and the Saki input](.github/assets/demo-v5-terminal-en.png)
